@@ -1,4 +1,5 @@
 # emoji-soccer
+![alt text](https://github.com/cain/emoji-soccer/blob/master/Design.png)
 
 > Simple soccer game.
 

@@ -1,7 +1,7 @@
 # emoji-soccer
-![alt text](https://github.com/cain/emoji-soccer/blob/master/Design.png)
-
 > Simple soccer game.
+
+![alt text](https://github.com/cain/emoji-soccer/blob/master/Design.png)
 
 ## Build Setup
 
